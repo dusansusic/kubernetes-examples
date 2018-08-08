@@ -11,4 +11,3 @@ spec:
         - "3600"
       imagePullPolicy: Always
       name: busybox
-    restartPolicy: Always
